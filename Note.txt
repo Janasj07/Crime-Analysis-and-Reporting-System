@@ -1,0 +1,41 @@
+NAME :- Janarthanan S
+
+BATCH :- 4
+
+PROJECT :- Crime Analysis and Reporting System
+
+Language :- Java & SQL
+
+Project Overview
+This project is developed using Java and SQL within the Eclipse IDE using the Maven build framework. The application follows a modular and layered architecture to ensure scalability, maintainability, and ease of testing.
+
+Technologies Used
+Java – Core application logic and structure
+
+SQL – Backend data management
+
+Eclipse IDE – Development environment
+
+Maven – Dependency management and build automation
+
+JUnit – Unit testing
+
+JDBC – Database connectivity
+
+Project Structure
+model – Contains all Java model/entity classes mapped to database tables.
+
+util – Utility classes such as database connection handlers.
+
+dao
+
+interface – DAO interfaces that declare database operations.
+
+implementation – Concrete DAO classes implementing the defined operations.
+
+myexception – Custom exception handling to manage application-specific errors.
+
+mainclass – Contains the main menu-driven application logic.
+
+junit – Contains unit tests to validate the functionality of the model and other components.
+
